@@ -10,7 +10,7 @@ This problem arises from the fact that Election Commission has the data set of t
 
 The current voter turnout is only a **meagre 67.11%.**
 
-A very self-relatable example is for us students only studying in IITs and other technical institutions. We live far away and thus even being eligible to vote and our card made, we are not able to cast our vote. We want to improve upon this situation. 
+A very **self-relatable example** is for us students only studying in IITs and other technical institutions. We live far away and thus even being eligible to vote and our card made, we are not able to cast our vote. We want to improve upon this situation. 
 
 Solution: We want to solve the above problem by using a different strategy and then implementing it with the concept of blockchain. 
 
@@ -30,6 +30,6 @@ Solution: We want to solve the above problem by using a different strategy and t
 
 •	Going by our strategy, a booth (in a constituency) can cast as many votes as it requires according to the number of voters arriving and it will only store the counter variables in a particular block in the DLS. 
 
-•	According to our strategy only a single machine can do the work and rest of them can verify it being exactly same.
+•	**According to our strategy only a single machine can do the work and rest of them can verify it being exactly same**.
 
 
